@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "PNbkZZleS9E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Licence3\\S5\\C#\\gestioncom\\gestion_commercial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\entityframework.fr\\6.2.0\\entityframework.fr.6.2.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Version du package détectée en dehors de la contrainte de dépendance : EntityFramework.fr 6.2.0 nécessite EntityFramework (= 6.2.0) alors que la version EntityFramework 6.4.4 a été résolue.",
+      "libraryId": "EntityFramework",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2"
+      ]
+    }
+  ]
+}
